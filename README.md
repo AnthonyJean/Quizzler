@@ -1,9 +1,17 @@
 
-#  Quizzler
+# Quizzler
 
 ## Description
 
-Simple trivia quiz app 
+A trivia quiz game
 
-![](https://raw.githubusercontent.com/AnthonyJean/Quizzler/master/screenshot.png)
+## Using
 
+* MVC pattern
+* HUD with ProgressHUD (ObjectiveC library)
+
+## Screenshots
+
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Quizzler/master/screenshot.png">
+</p>
